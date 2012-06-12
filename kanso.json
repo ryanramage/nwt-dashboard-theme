@@ -1,0 +1,20 @@
+{
+    "name": "nwt-dashboard-theme",
+    "version": "0.0.1",
+    "description": "A bootstrap based theme, with larger fonts for menu items",
+    "modules": [
+        "template.html",
+        "topbar.css",
+        "type"
+    ],
+    "attachments" : [
+        "bootstrap-dropdown.js"
+    ],
+    "dependencies": {
+        "modules": null,
+        "attachments": null
+    },
+    "topbar" : {
+        "height" : 40
+    }
+}
